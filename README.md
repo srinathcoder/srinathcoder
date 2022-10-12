@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srinathcoder
 - 👀 I’m interested in c, cpp, python, sql.
-- 🌱 I’m currently learning python..
+- 🌱 I’m currently learning html..
 - 💞️ I’m looking to collaborate on c, cpp..
 - 📫 How to reach me insta id MR LEARNER...
 
