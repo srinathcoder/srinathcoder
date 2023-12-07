@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @srinathcoder
-- 👀 I’m interested in c, cpp, python, sql.
-- 🌱 I’m currently learning html..
-- 💞️ I’m looking to collaborate on c, cpp..
-- 📫 How to reach me insta id MR LEARNER...
+- 👀 I’m interested in c, cpp, python, sql,html,figma,wordpress,css,javascript .
+- 🌱 I’m currently learning angular.js..
+- 📫 How to reach me linkedin id SRINATH R...
 
 <!---
 srinathcoder/srinathcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
