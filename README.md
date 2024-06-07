@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srinathcoder
-- 👀 I’m interested in c, cpp, python, sql,html,figma,wordpress,css,javascript .
-- 🌱 I’m currently learning angular.js..
+- 👀 I’m interested in c, cpp, python, sql,html,figma,wordpress,css,javascript,java .
+- 🌱 I’m currently learning react.js..
 - 📫 How to reach me linkedin id SRINATH R...
 
 <!---
